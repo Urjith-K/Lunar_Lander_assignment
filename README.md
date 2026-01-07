@@ -6,14 +6,6 @@ This project was developed as a mid-term assignment focusing on Week 2: Deep Rei
 
 ---
 
-## 🎥 Demo Video
-
-Click here to watch the Agent Land (Screen Recording)
-
-*(Paste your YouTube or Google Drive link inside the parenthesis above, or delete this line if you uploaded the video directly to the repo)*
-
----
-
 ## 🚀 Project Goal
 
 The goal of the agent is to land the spaceship safely between the yellow flags.
@@ -119,4 +111,5 @@ The final model achieved exceptional performance after extended training.
 
 - Course Materials: Week 2 (Deep Q-Networks).
 - Based on concepts from Sutton & Barto, Chapter 13.
+
 - Environment provided by Farama Foundation Gymnasium.
